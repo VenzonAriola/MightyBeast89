@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Venzon Ariola
 =====================================================================================================================================
 
-FullStack Developer
+Full Stack Developer
 ------------------
 
 A highly motivated and hardworking job seeker with strong organization skills eager to secure an entry level back-end developer position. Works well in a dynamic team and proven diagnostic ability with attention to detail. Ready to help the team maintain and meet organizational goal.
